@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nagarjuna Reddy
 - 👀 I’m interested in programming in C and C++
-- 🌱 I’m planning to learn RUST
+- 🌱 I’m started to learn RUST
 - 💞️ I’m looking to collaborate on new learning oppurtunities in RUST
 
 <!---
